@@ -1,8 +1,9 @@
-import {component} from 'react'
+import {Component} from 'react'
 
 import TodoItem from '../TodoItem'
 
 import './index.css'
+
 const initialTodosList = [
   {
     id: 1,
